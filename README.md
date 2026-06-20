@@ -13,7 +13,9 @@ Welcome to the A.P.I.C. system, a tool designed to automate the calculation and 
 
 Dashboard: Go to the "12p" tab. This is your main tracking dashboard.
 
-Data Entry: Manually enter player names (automated Discord integration is coming soon). Map names support an active search feature, recognizing both track codes and full names.
+Data Entry: Manually enter player names and score inside white/grey cells. Cells with other color have formulas, so don't modify, or get a new copy. 
+
+Map names support an active search feature, recognizing both track codes and full names.
 
 Entering Scores & Handling DCs:
 
